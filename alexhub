@@ -1,6 +1,6 @@
 # Logs  1111
 logs 22222
-*.log
+*.log 333
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
