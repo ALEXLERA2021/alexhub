@@ -3,7 +3,7 @@ logs 22222
 *.log 333
 npm-debug.log* 4444
 yarn-debug.log* 5555
-yarn-error.log*
+yarn-error.log* 666
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
