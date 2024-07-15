@@ -67,7 +67,7 @@ typings/999
 444
 # Yarn Integrity file 555
 .yarn-integrity 666
-
+777
 # dotenv environment variables file
 .env
 .env.test
