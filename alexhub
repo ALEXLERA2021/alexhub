@@ -74,7 +74,7 @@ typings/999
 222
 # parcel-bundler cache (https://parceljs.org/)
 .cache 333
-
+444
 # Next.js build output
 .next
 
