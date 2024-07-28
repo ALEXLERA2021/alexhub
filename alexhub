@@ -49,6 +49,7 @@ typings/999
 222
 # Optional npm cache directory
 .npm222
+....
 
 # Optional eslint cache 333
 .eslintcache
